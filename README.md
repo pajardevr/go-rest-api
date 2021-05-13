@@ -7,7 +7,7 @@ Another dependencies included :
 - github.com/joho/godotenv 
 
 Installation :
-1. Run ```git clone https://github.com/nubbdev/go-rest-api.git```
+1. Run ```git clone https://github.com/pajardevr/go-rest-api.git```
 2. Run ```go get github.com/gorilla/mux```
 3. Run ```go get github.com/go-sql-driver/mysql```
 4. Run ```go get github.com/joho/godotenv```
